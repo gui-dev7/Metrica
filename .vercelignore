@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+*.log
+*.tsbuildinfo
+.env
+.env.local
+.env.*
+.vercel
+prompt.md
+skill.md
+next-dev.out.log
+next-dev.err.log
